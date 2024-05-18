@@ -1,4 +1,4 @@
-﻿# object-detection
+﻿# Object Detection App
 Hello friends, This project demonstrates real-time object detection using a webcam and TensorFlow.js. By leveraging the COCO-SSD model, it captures video from the user's webcam and identifies various objects within the live feed, displaying bounding boxes and labels around detected items on a canvas overlay. The application utilizes modern web technologies, including HTML5, CSS, and JavaScript, providing a seamless and interactive experience for users to explore the capabilities of machine learning and computer vision directly in their browser.
 
 ## Installation
